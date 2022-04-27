@@ -1,0 +1,13 @@
+/Users/user/Projects/Lesson7_Task1/Lesson7_Task1/bin/Debug/netcoreapp3.1/Lesson7_Task1.deps.json
+/Users/user/Projects/Lesson7_Task1/Lesson7_Task1/bin/Debug/netcoreapp3.1/Lesson7_Task1.runtimeconfig.json
+/Users/user/Projects/Lesson7_Task1/Lesson7_Task1/bin/Debug/netcoreapp3.1/Lesson7_Task1.runtimeconfig.dev.json
+/Users/user/Projects/Lesson7_Task1/Lesson7_Task1/bin/Debug/netcoreapp3.1/Lesson7_Task1.dll
+/Users/user/Projects/Lesson7_Task1/Lesson7_Task1/bin/Debug/netcoreapp3.1/Lesson7_Task1.pdb
+/Users/user/Projects/Lesson7_Task1/Lesson7_Task1/obj/Debug/netcoreapp3.1/Lesson7_Task1.csproj.AssemblyReference.cache
+/Users/user/Projects/Lesson7_Task1/Lesson7_Task1/obj/Debug/netcoreapp3.1/Lesson7_Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/Lesson7_Task1/Lesson7_Task1/obj/Debug/netcoreapp3.1/Lesson7_Task1.AssemblyInfoInputs.cache
+/Users/user/Projects/Lesson7_Task1/Lesson7_Task1/obj/Debug/netcoreapp3.1/Lesson7_Task1.AssemblyInfo.cs
+/Users/user/Projects/Lesson7_Task1/Lesson7_Task1/obj/Debug/netcoreapp3.1/Lesson7_Task1.csproj.CoreCompileInputs.cache
+/Users/user/Projects/Lesson7_Task1/Lesson7_Task1/obj/Debug/netcoreapp3.1/Lesson7_Task1.dll
+/Users/user/Projects/Lesson7_Task1/Lesson7_Task1/obj/Debug/netcoreapp3.1/Lesson7_Task1.pdb
+/Users/user/Projects/Lesson7_Task1/Lesson7_Task1/obj/Debug/netcoreapp3.1/Lesson7_Task1.genruntimeconfig.cache
