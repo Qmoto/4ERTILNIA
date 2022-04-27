@@ -1,0 +1,6 @@
+C:\Users\bobpv\Desktop\Lesson1_Task2\Lesson1_Task2\obj\Debug\Lesson1_Task2.csproj.CoreCompileInputs.cache
+C:\Users\bobpv\Desktop\Lesson1_Task2\Lesson1_Task2\bin\Debug\Lesson1_Task2.exe.config
+C:\Users\bobpv\Desktop\Lesson1_Task2\Lesson1_Task2\bin\Debug\Lesson1_Task2.exe
+C:\Users\bobpv\Desktop\Lesson1_Task2\Lesson1_Task2\bin\Debug\Lesson1_Task2.pdb
+C:\Users\bobpv\Desktop\Lesson1_Task2\Lesson1_Task2\obj\Debug\Lesson1_Task2.exe
+C:\Users\bobpv\Desktop\Lesson1_Task2\Lesson1_Task2\obj\Debug\Lesson1_Task2.pdb
